@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Better Me Live Wallpaper</string>
+    <string name="wallpaper_name">Better Me — Time &amp; Focus</string>
+    <string name="wallpaper_description">A time-aware motivational wallpaper with optional local phone-usage feedback.</string>
+</resources>
